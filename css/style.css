@@ -7,7 +7,7 @@ body{
   color:#434455;
   background-color:#FFFFFF;
 }
-h1{
+.pagetitle{
   font-weight:700;
   font-size: 56px;
   letter-spacing: 0.02em;
@@ -86,7 +86,7 @@ font-style: normal;
   letter-spacing: 0.02em;
   text-align: center;
 }
-.order{
+.ordering{
   cursor: pointer;
   background-color: #4D5AE5;
   color: #FFFFFF;
@@ -94,10 +94,10 @@ font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
-.order:hover{
+.ordering:hover{
   background-color: #404BBF;
 }
-.order:focus{
+.ordering:focus{
   background-color: #404BBF;
 }
 .hiddentitle{
@@ -106,7 +106,7 @@ font-style: normal;
 .fewwords{
   letter-spacing: 0.02em;
 }
-.section2{
+.sectiontwo{
   background-color: #F4F4FD;
 }
 .team{
@@ -115,9 +115,10 @@ font-style: normal;
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
-.section2>ul>li{
+.sectiontwo>ul>li{
   background-color: #FFFFFF;
 }
+/*----INICIO
 .teamh3{
   letter-spacing: 0.02em;
 }
@@ -138,7 +139,7 @@ font-style: normal;
 }
 .sect3p{
   letter-spacing: 0.02em;
-}
+}----*/
 .footer{
   background-color: #2E2F42;
 }
